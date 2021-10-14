@@ -10,6 +10,8 @@ body {
   font-size: 1.6rem;
   font-family: "Karla", sans-serif;
   background-color: hsl(195, 53%, 79%, 0.5);
+
+  margin: 5rem auto;
 }
 li {
   list-style: none;
@@ -18,7 +20,7 @@ li {
 }
 .container {
   width: 60vw;
-  margin: 10rem auto;
+  margin: auto;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -107,7 +109,7 @@ ul {
 }
 /* Attribution */
 .attribution {
-  margin-top: 3rem;
+  margin-top: 2rem;
   font-size: 1.1rem;
   text-align: center;
 }
@@ -128,11 +130,6 @@ ul {
   }
   .card-top p {
     width: 85%;
-  }
-}
-@media (max-width: 60em) {
-  .container {
-    width: 80%;
   }
 }
 @media (max-width: 60em) {
