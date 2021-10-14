@@ -24,7 +24,7 @@ The aim of this design is to practice CSS and display flex property.
     -max width 600px
     -max width 400px
 
--Google fonts link
+- Google fonts link
 
 ## Links:
 
